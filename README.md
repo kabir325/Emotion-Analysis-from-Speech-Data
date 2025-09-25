@@ -1,5 +1,4 @@
 # 🎵 Emotion Analysis from Speech Data – Unsupervised Learning  
-*Capstone Project 2: Building and Comparing ML/DL Models*  
 
 ## 📌 Overview  
 This project focuses on **emotion recognition from speech audio** using the **RAVDESS dataset**.  
