@@ -1,8 +1,3 @@
-Perfect 👍 I’ll give you the full **`README.md` file** content, ready for direct use. Save it as `README.md` in your project root.
-
----
-
-````markdown
 # 🎵 Emotion Analysis from Speech Data – Unsupervised Learning  
 *Capstone Project 2: Building and Comparing ML/DL Models*  
 
@@ -143,7 +138,6 @@ scipy
 
 ```
 
----
 
 👉 I can also generate the `requirements.txt` file for you directly from the imports in your code so you don’t need to write it manually. Do you want me to create that as well?
 ```
