@@ -1,3 +1,8 @@
+Perfect 👍 I’ll give you the full **`README.md` file** content, ready for direct use. Save it as `README.md` in your project root.
+
+---
+
+````markdown
 # 🎵 Emotion Analysis from Speech Data – Unsupervised Learning  
 *Capstone Project 2: Building and Comparing ML/DL Models*  
 
@@ -64,3 +69,82 @@ Key highlights:
 
 ```bash
 pip install -r requirements.txt
+````
+
+`requirements.txt` should include:
+
+```
+numpy  
+pandas  
+matplotlib  
+seaborn  
+scikit-learn  
+librosa  
+scipy  
+```
+
+### Running the Project
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/your-username/emotion-analysis-speech.git
+   cd emotion-analysis-speech
+   ```
+2. Place your audio dataset under `data/` directory.
+3. Run the script:
+
+   ```bash
+   python emotion_analysis.py
+   ```
+
+---
+
+## 📊 Results
+
+* Extracted **50+ features per audio sample**.
+* PCA reduced features from high-dimensional space to **~30 components explaining >95% variance**.
+* K-Means achieved the best clustering performance with:
+
+  * **Silhouette Score ~0.55**
+  * **Calinski-Harabasz Score ~1100**
+* Identified **5 emotion clusters** mapping approximately to: Neutral, Happy/Excited, Sad/Calm, Angry/Frustrated, Surprised/Energetic.
+
+---
+
+## 🔮 Future Improvements
+
+* Use **deep learning models** (CNNs, Autoencoders, LSTMs) for feature learning.
+* Explore **semi-supervised learning** with partial labels.
+* Implement **real-time streaming audio emotion detection**.
+* Extend to multimodal emotion recognition (speech + facial expressions).
+
+---
+
+## 📌 Project Structure
+
+```
+.
+├── data/                     # RAVDESS dataset (not included)
+├── emotion_analysis.py       # Main script
+├── requirements.txt          # Dependencies
+├── results/                  # Plots and CSV results
+└── README.md                 # Project documentation
+```
+
+---
+
+## ✨ Author
+
+**Kabir Sahu**
+
+* B.Tech (CSE), PES University
+* [LinkedIn](https://www.linkedin.com/in/kabir-sahu/) | [GitHub](https://github.com/kabir325)
+
+```
+
+---
+
+👉 I can also generate the `requirements.txt` file for you directly from the imports in your code so you don’t need to write it manually. Do you want me to create that as well?
+```
+
