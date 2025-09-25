@@ -136,9 +136,3 @@ scipy
 * B.Tech (CSE), PES University
 * [LinkedIn](https://www.linkedin.com/in/kabir-sahu/) | [GitHub](https://github.com/kabir325)
 
-```
-
-
-👉 I can also generate the `requirements.txt` file for you directly from the imports in your code so you don’t need to write it manually. Do you want me to create that as well?
-```
-
